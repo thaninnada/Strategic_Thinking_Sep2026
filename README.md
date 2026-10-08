@@ -1,9 +1,9 @@
 # Strategic Thinking – Sep 2026
 ## Project Title
-** Predictive Analytics Solution for Early Identification of Depression Risk in Older Adults**
+    Predictive Analytics Solution for Early Identification of Depression Risk in Older Adults
 
 ## Project Overview
-** This project aims to explore predictive analysis methods for identifying the risk of depression in the elderly at an early stage. It seeks to determine how demographic, health, social, and economic data can assist public health agencies and community-based elderly care organizations in prioritizing assessments, symptom monitoring, and the provision of appropriate support.
+    This project aims to explore predictive analysis methods for identifying the risk of depression in the elderly at an early stage. It seeks to determine how demographic, health, social, and economic data can assist public health agencies and community-based elderly care organizations in prioritizing assessments, symptom monitoring, and the provision of appropriate support.
 
 ## Core structure of the project
 Organisation > Business goal > Business Problem > Business impact > Data > Data Science > Business Decision
