@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="BQGpQRzIbAo9uyL4w7-O">
-    <mxGraphModel dx="2174" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="1627" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,14 @@
         <UserObject label="De&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;font&gt;velop&amp;nbsp;&lt;span style=&quot;text-align: start; line-height: 15.6933px; font-family: Calibri, sans-serif;&quot;&gt;predictive&lt;/span&gt;&lt;span style=&quot;text-align: start;&quot;&gt;&lt;/span&gt;&amp;nbsp;m&lt;/font&gt;&lt;/span&gt;odels" mermaidId="n:J" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#E9EFF8;strokeColor=#4472C4;fontColor=default;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="Develop Classification Models" id="JoORhSURr96cjCMmXIee-145">
           <mxCell parent="JoORhSURr96cjCMmXIee-219" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#E9EFF8;strokeColor=#4472C4;fontColor=default;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;" vertex="1">
             <mxGeometry height="87" width="180" x="20" y="360" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="G6WkmUPyp2qx6z3PzDIA-1" edge="1" parent="JoORhSURr96cjCMmXIee-219" source="JoORhSURr96cjCMmXIee-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JoORhSURr96cjCMmXIee-145" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Review data preparation&lt;br&gt;and model settings" mermaidId="n:M" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#E9EFF8;strokeColor=#4472C4;fontColor=default;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="Review Data Preparation&#xa;and Model Settings" id="JoORhSURr96cjCMmXIee-148">
+          <mxCell parent="JoORhSURr96cjCMmXIee-219" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#E9EFF8;strokeColor=#4472C4;fontColor=default;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;gradientColor=none;aspect=fixed;" vertex="1">
+            <mxGeometry height="108" width="161" x="29.5" y="500" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="JoORhSURr96cjCMmXIee-179" edge="1" parent="JoORhSURr96cjCMmXIee-71" source="JoORhSURr96cjCMmXIee-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JoORhSURr96cjCMmXIee-137">
@@ -121,9 +129,6 @@
             <mxGeometry height="140" width="208" x="750" y="307.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="JoORhSURr96cjCMmXIee-204" edge="1" parent="JoORhSURr96cjCMmXIee-71" source="JoORhSURr96cjCMmXIee-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="JoORhSURr96cjCMmXIee-145">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JoORhSURr96cjCMmXIee-209" edge="1" parent="JoORhSURr96cjCMmXIee-71" source="JoORhSURr96cjCMmXIee-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JoORhSURr96cjCMmXIee-150">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -174,11 +179,6 @@
         <mxCell id="JoORhSURr96cjCMmXIee-210" edge="1" parent="JoORhSURr96cjCMmXIee-220" source="JoORhSURr96cjCMmXIee-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JoORhSURr96cjCMmXIee-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Review data preparation&lt;br&gt;and model settings" mermaidId="n:M" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#E9EFF8;strokeColor=#4472C4;fontColor=default;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;" mermaidBaseValue="Review Data Preparation&#xa;and Model Settings" id="JoORhSURr96cjCMmXIee-148">
-          <mxCell parent="JoORhSURr96cjCMmXIee-71" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#E9EFF8;strokeColor=#4472C4;fontColor=default;fontFamily=Recursive;fontSize=14;shadow=1;shadowColor=#000000;shadowOffsetX=4;shadowOffsetY=4;shadowBlur=0;shadowOpacity=6;labelWidth=120;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRecursive;gradientColor=none;aspect=fixed;" vertex="1">
-            <mxGeometry height="108" width="161" x="640" y="570" as="geometry" />
-          </mxCell>
-        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
