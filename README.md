@@ -3,7 +3,7 @@
     A Predictive Analytics Solution for Identifying Depression Risk Among Older Adults
     
 ## Project Overview
-This project aims to explore predictive analysis methods for identifying the risk of depression in the elderly at an early stage. It seeks to determine how demographic, health, social, and economic data can assist public health agencies and community-based elderly care organizations in prioritizing assessments, symptom monitoring, and the provision of appropriate support.
+The aims of this project are to examine the factors associated with depression in older adults and use cross sectional data collected at a single point in time. Using predictive analytics I aim to identify patterns and groups more likely to be in a high risk group in relation to depressive disorders. This analysis will be used to support evidence based screening, prioritisation and resource allocation.
 
 ## Core structure of the project
 Organisation > Business goal > Business Problem > Business impact > Data > Data Science > Business Decision
